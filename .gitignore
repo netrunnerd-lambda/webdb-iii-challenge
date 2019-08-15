@@ -60,5 +60,8 @@ typings/
 # Mac files
 .DS_Store
 
+# VSCode REST client request files
+*.http
+
 # VSCode settings
 .vscode/
